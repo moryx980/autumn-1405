@@ -62,6 +62,16 @@ def check(url):
         return 0
 
 
+# 4. Keep the free database awake (it pauses after 1 week of no use).
+try:
+    req = urllib.request.Request(
+        "https://hqhvxuglyhadvspdnfng.supabase.co/rest/v1/autumn_votes?select=item&limit=1",
+        headers={"apikey": "sb_publishable_iMiVt9ubnKGLs5pIT8lzFw_nM_pArpT"})
+    urllib.request.urlopen(req, timeout=20).read()
+    db = "Database ping: OK"
+except Exception as e:
+    db = f"Database ping FAILED: {e}"
+
 lines = ["Link check: " + now.isoformat(timespec="seconds"),
          "404/410 or 0 = probably broken. 403/429 = the site may just block this robot.", ""]
 bad = 0
@@ -72,7 +82,9 @@ for url in sorted(links):
         lines.append(f"{code}  {url}")
 if bad == 0:
     lines.append("All links are OK.")
+lines.append(db)
 with open("data/link_report.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(lines) + "\n")
 
+print(db)
 print(f"Removed {removed} past events. Checked {len(links)} links. Problems: {bad}.")
