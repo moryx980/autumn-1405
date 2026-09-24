@@ -1,0 +1,5 @@
+Link check: 2026-09-24T09:21:35+00:00
+404/410 or 0 = probably broken. 403/429 = the site may just block this robot.
+
+0  https://fa.wikifeqh.ir/شکرآب_(تهران)
+0  https://ticka.ir
