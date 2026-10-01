@@ -1,8 +1,7 @@
-Link check: 2026-09-30T09:04:22+00:00
+Link check: 2026-10-01T09:30:00+00:00
 404/410 or 0 = probably broken. 403/429 = the site may just block this robot.
 
 0  https://fa.wikifeqh.ir/شکرآب_(تهران)
 404  https://hqhvxuglyhadvspdnfng.supabase.co
 0  https://ticka.ir
-0  https://www.flytoday.ir/blog/hovz-e-soltan/
 Database ping: OK
