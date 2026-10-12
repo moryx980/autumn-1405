@@ -1,8 +1,7 @@
-Link check: 2026-10-11T09:22:35+00:00
+Link check: 2026-10-12T09:53:04+00:00
 404/410 or 0 = probably broken. 403/429 = the site may just block this robot.
 
 0  https://fa.wikifeqh.ir/شکرآب_(تهران)
 404  https://hqhvxuglyhadvspdnfng.supabase.co
-0  https://qomgardi.com/qom-qahan-valley/
 0  https://ticka.ir
 Database ping: OK
