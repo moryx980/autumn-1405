@@ -1,4 +1,4 @@
-Link check: 2026-10-15T07:46:40+00:00
+Link check: 2026-10-16T07:34:55+00:00
 404/410 or 0 = probably broken. 403/429 = the site may just block this robot.
 
 0  https://fa.wikifeqh.ir/شکرآب_(تهران)
