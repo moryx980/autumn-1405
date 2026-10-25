@@ -1,8 +1,8 @@
-Link check: 2026-10-24T07:40:03+00:00
+Link check: 2026-10-25T07:51:38+00:00
 404/410 or 0 = probably broken. 403/429 = the site may just block this robot.
 
+0  https://blog.shab.ir/%D8%A7%D9%85%D8%A7%DA%A9%D9%86-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%AA%D9%87%D8%B1%D8%A7%D9%86/
 0  https://fa.wikifeqh.ir/شکرآب_(تهران)
 404  https://hqhvxuglyhadvspdnfng.supabase.co
-0  https://lastsecond.ir/blog/10596-best-entertainments-in-tehran
 0  https://ticka.ir
 Database ping: OK
