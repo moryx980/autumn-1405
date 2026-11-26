@@ -1,7 +1,9 @@
-Link check: 2026-11-25T11:49:34+00:00
+Link check: 2026-11-26T11:36:51+00:00
 404/410 or 0 = probably broken. 403/429 = the site may just block this robot.
 
 0  https://fa.wikifeqh.ir/شکرآب_(تهران)
 404  https://hqhvxuglyhadvspdnfng.supabase.co
+500  https://lastsecond.ir/blog/10596-best-entertainments-in-tehran
 0  https://ticka.ir
+0  https://www.honaronline.ir
 Database ping: OK
